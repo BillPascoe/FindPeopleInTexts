@@ -16,3 +16,8 @@ An example input file Example_Eureka.txt is included.
 It will also attempt to identify dates from the citation to help piece together people's life course, or the order events they were involved in. It may pick up the 'accessed on' date or other date instead of the publication date.
 
 See the notebook for more inline documentation.
+
+You can run this online, without having to download and set up, using Binder Hub:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BillPascoe/FindPeopleInTexts/HEAD?urlpath=%2Fdoc%2Ftree%2FFindPeople.ipynb)
+
