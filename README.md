@@ -17,7 +17,7 @@ It will also attempt to identify dates from the citation to help piece together 
 
 See the notebook for more inline documentation.
 
-You can run this online, without having to download and set up, using Binder Hub:
+You can run this online, without having to download and set up, using Binder Hub. If you run in Binder Hub you can find the output CSV file by clicking the folder icon and looking for the file 'people.csv'. You can right click and download it.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BillPascoe/FindPeopleInTexts/HEAD?urlpath=%2Fdoc%2Ftree%2FFindPeople.ipynb)
 
