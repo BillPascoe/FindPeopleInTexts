@@ -1,5 +1,7 @@
 Find People In Texts
+
 (c) Bill Pascoe, 2025
+
 Apache 2.0 licence (open source, free to re-use with attribution)
 
 This Jupyter Notebook reads input texts and identifies people in them, outputting their names, the sentence their name appears in, a citation and URL if available as a CSV file. A CSV file can be opened in Excel for correcting and adding other data.
